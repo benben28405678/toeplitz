@@ -8,6 +8,6 @@ To use:
 3. Release the mouse to finish the curve.
 4. Wait as the computer finds squares inscribed in the curve.
 
-toeplitzV2.java > Mac
-toeplitzV232.exe > Windows 32
-toeplitzV264.exe > Windows 64
+toeplitzV2.java > Mac | 
+toeplitzV232.exe > Windows 32 | 
+toeplitzV264.exe > Windows 64 |
